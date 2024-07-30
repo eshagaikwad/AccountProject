@@ -1,0 +1,12 @@
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.deps.json
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.dll
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.pdb
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.AssemblyInfoInputs.cache
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.AssemblyInfo.cs
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.csproj.CoreCompileInputs.cache
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.dll
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\refint\AccountLibrary.dll
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.pdb
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\ref\AccountLibrary.dll
+D:\DotNet\26 july\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.csproj.AssemblyReference.cache
